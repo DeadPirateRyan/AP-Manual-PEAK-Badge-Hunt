@@ -1,0 +1,21 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
+    "Normal": {
+        "hidden": true
+    },  
+    "Friend Badges": {
+        "hidden": true
+    },
+    "Custom Badges": {
+        "hidden": true
+    },
+    "Death Badges": {
+        "hidden": true
+    },
+    "RNG Badges": {
+        "hidden": true
+    },
+    "Biome Luggage": {
+        "hidden": true
+    }
+}
