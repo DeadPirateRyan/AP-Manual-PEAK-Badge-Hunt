@@ -49,11 +49,11 @@ Ascent Trap (Trap) - 7 total in the pool if the yaml option is turned on, forces
 # Badges
 I do want to preface that below are explanations on how to get every badge in the game and in the manual.
 
-The main locations in the game barring the Luggage locations.
+These are the main locations in the game barring the Luggage locations.
 This is where I'll list every badge in the manual and explain the badges.
 I did edit a small amount of badges due to the exact number of points being hard to track without mods.
 
-There's also a handful of badges that you have to keep track of the number of (like Cooking Badge and Plunderer Badge for instance). I put them, logic-wise, further along as locations (around Caldera for in logic), but they definitely are doable outside of logic.
+There's also a handful of badges that you have to keep track of the number of the entire time in a run (like Cooking Badge and Plunderer Badge for instance). I put them, logic-wise, further along as locations (around Caldera for in logic), but they definitely are doable outside of logic. There's also a good chunk of other badges that are doable outside of logic.
 
 Some badges will appear in other categories of badges if the badge option are turned on, like for instance there are custom badges for the victory lap badges.
 # Standard Badges:
@@ -120,7 +120,7 @@ Ultimate Badge (Shore) - Catch a Flying Disc from 100m away
 
 Emergency Preparedness Badge (Shore) - Heal an unconscious friend with an item to save them from death
 
-First Aid Badge (Shore) - Heal your friends of injury
+First Aid Badge (Shore, Edited) - Heal your friends of injury
 
 Clutch Badge (Alpine/Mesa) - Resurrect 3 scouts in a single expedition
 
