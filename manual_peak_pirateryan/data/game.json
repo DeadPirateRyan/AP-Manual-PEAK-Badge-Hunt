@@ -1,7 +1,0 @@
-{
-  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
-  "game": "PEAK",
-  "creator": "PirateRyan",
-  "filler_item_name": "Morale Boost",
-  "starting_items": []
-}
