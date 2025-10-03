@@ -63,6 +63,8 @@ Faulty Equipment Badge (Custom) - Break an old piton in the alpine or pickaxe in
 
 Alpinist Badge - Climb past the ALPINE
 
+Bundled Up Badge - Climb past the ALPINE without ever having more than 20% Cold
+
 Heatwave Hiker Badge (Custom) - Use a heat pack in the Caldera or Kiln
 
 Popsicle Badge (Death) - Pass out from cold damage
