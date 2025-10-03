@@ -74,6 +74,8 @@ Foraging Badge (Alpine/Mesa) - Eat 5 different berries in a single expedition
 
 Alpinist Badge (Alpine Specific) - Climb past the ALPINE
 
+Bundled Up Badge (Alpine Specific) - Climb past the ALPINE without ever having more than 20% Cold
+
 Nomad Badge (Mesa Specific) - Climb past the MESA
 
 Animal Serenading Badge (Alpine/Mesa) - Play the bugle for a capybara
